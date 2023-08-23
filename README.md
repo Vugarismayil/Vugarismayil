@@ -23,6 +23,6 @@
 
 <br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vugarismayil&show_icons=true&locale=en&layout=compact" alt="vugarismayil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vugarismayil&show_icons=true&locale=en" alt="vugarismayil" /></p>
+<br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vugarismayil&show_icons=true&locale=en" alt="vugarismayil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vugarismayil&" alt="vugarismayil" /></p>
