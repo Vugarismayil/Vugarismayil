@@ -25,4 +25,4 @@
 
 <br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vugarismayil&show_icons=true&locale=en" alt="vugarismayil" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vugarismayil&" alt="vugarismayil" /></p>
+<br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vugarismayil&" alt="vugarismayil" /></p>
