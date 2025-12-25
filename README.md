@@ -1,26 +1,28 @@
-    <div align="center">
+<div align="center">
   <h1 align="center">Hi there 👋, I'm Vugar</h1>
   <h3 align="center">A passionate Full-Stack Developer from Azerbaijan 🇦🇿</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=35cedd&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Laravel+%26+PHP+Expert;Flutter+Developer;Tech+Explorer" alt="Typing SVG" />
-  
-  <br/>
-  
-  <a href="https://linkedin.com/in/vugar-ismayilov-900647286/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://dribbble.com/vugarismayil">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
-  </a>
-  <a href="https://www.behance.net/vugarismayil">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
-  </a>
-  <a href="https://instagram.com/vugar.ismayil/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-   <a href="https://codepen.io/vugarismayil">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/>
-  </a>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=35cedd&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Laravel+%26+PHP+Expert;Flutter+Developer;Tech+Explorer" alt="Typing SVG" />
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/vugar-ismayilov-900647286/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://dribbble.com/vugarismayil">
+      <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
+    </a>
+    <a href="https://www.behance.net/vugarismayil">
+      <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+    </a>
+    <a href="https://instagram.com/vugar.ismayil/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://codepen.io/vugarismayil">
+      <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/>
+    </a>
+  </p>
 </div>
 
 <br/>
